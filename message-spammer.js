@@ -26,4 +26,4 @@ async function sendMessage(scriptText, repeatCount) {
   return lines.length;
 }
 
-sendMessage("huehue", 1000000);
+sendMessage("", 1000000);
