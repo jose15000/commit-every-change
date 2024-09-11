@@ -32,3 +32,19 @@ Entre na pasta criada e execute o script
   - Abra as devTools do seu navegador (F12 ou Ctrl + Shift + C);
   - Antes de colar o script no console, digite "allow pasting" para que o console seja liberado;
   - Com o whatsapp web e a conversa-alvo abertos, copie o script e cole no console do seu navegador
+
+## compress-images.sh
+
+- Ùtil quando você precisa comprimir imagens no seu projeto
+
+  ## Como usar
+  - Acesse a pasta
+   ```bash
+     cd scripts
+    ```
+   - Execute o script
+     
+  ```bash
+     bash ./compress-images.sh
+    ```
+     
